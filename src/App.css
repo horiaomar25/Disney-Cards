@@ -1,0 +1,27 @@
+*{
+    background-color: burlywood;
+    padding: 0;
+    
+}
+
+.characters_card{
+   
+    padding: 10px;
+}
+
+.indi_card{
+  
+    border: 1px solid black;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+
+   padding: 20px ;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 5px 0;
+}
+
+img{
+    width: 200px;
+}
